@@ -4,7 +4,10 @@ public class Program1{
 		a=a*b;
 		b=a/b;
 		a=a/b;
+		c=a+b;
 		System.out.println(a);
 		System.out.println(b);
+System.out.println(c);
+
 	}
 }
